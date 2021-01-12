@@ -1,1 +1,2 @@
- ![Two-stones](/tw stones)
+#[Two-stones](https://open.kattis.com/problems/twostones)
+
